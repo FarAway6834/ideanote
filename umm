@@ -1,6 +1,0 @@
-#!/bin/sh
-
-chmod u+x ./umm
-chmod u+x ./um
-chmod u+x ./MOB_WORKDIR/um
-chmod u+x ./MOB_USER/um
