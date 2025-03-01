@@ -1,0 +1,2 @@
+# ideanote
+my idea note
